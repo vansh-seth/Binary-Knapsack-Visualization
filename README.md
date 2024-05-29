@@ -1,4 +1,3 @@
-# Binary-Knapsack-Visualization
 # Binary Knapsack Visualization
 
 ## Overview
