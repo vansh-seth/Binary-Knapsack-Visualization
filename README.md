@@ -50,10 +50,6 @@ The tool will visualize how the optimal solution is computed.
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 Special thanks to all contributors and the open-source community for their invaluable support and resources.
