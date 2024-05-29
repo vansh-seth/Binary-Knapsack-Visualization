@@ -53,7 +53,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## Acknowledgements
 
 Special thanks to all contributors and the open-source community for their invaluable support and resources.
-
----
-
-Happy coding!
