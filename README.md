@@ -43,7 +43,7 @@ Here is a quick example to get you started:
 - **Item weights**: [2, 3, 4, 5]
 - **Item values**: [3, 4, 5, 6]
 - **Knapsack capacity**: 5
-
+- 
 The tool will visualize how the optimal solution is computed.
 
 ## Contributing
